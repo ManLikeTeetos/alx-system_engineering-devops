@@ -6,3 +6,4 @@
 5-listfilesdigitonly : List all files in long format with hidden files as well
 6-firstdirectory : Make directory my_first_directory in /tmp
 7-movethatfile : Move file from one directory to the other
+8-firstdelete : Delete file from directory
