@@ -14,4 +14,5 @@
 13-symbolic_link : Create a symbolic link in the current working directory
 14-copy_html : Copy all html to parent directory
 100-lets_move : Move all files with uppercase names
+101-clean_emacs : Delete all files staring with ~
 
