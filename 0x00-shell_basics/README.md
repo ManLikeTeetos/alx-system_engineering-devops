@@ -9,3 +9,5 @@
 8-firstdelete : Delete file from directory
 9-firstdirdeletion : Delete directory
 10-back : Go to the previous working directory
+11-lists : List all file even with period and in boot folder
+
