@@ -3,3 +3,5 @@
 2-bring_me_home: Change working directory to home directory
 3-listfiles : List files in long format
 4-listmorefiles : List files include hidden ones
+5-listfilesdigitonly : List all files in long format with hidden files as well
+
