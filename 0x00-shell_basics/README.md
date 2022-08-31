@@ -8,3 +8,4 @@
 7-movethatfile : Move file from one directory to the other
 8-firstdelete : Delete file from directory
 9-firstdirdeletion : Delete directory
+10-back : Go to the previous working directory
