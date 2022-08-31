@@ -15,4 +15,5 @@
 14-copy_html : Copy all html to parent directory
 100-lets_move : Move all files with uppercase names
 101-clean_emacs : Delete all files staring with ~
+102-tree : Make three directories with one comand line 
 
