@@ -11,4 +11,5 @@
 10-back : Go to the previous working directory
 11-lists : List all file even with period and in boot folder
 12-file_type: Print the file type
+13-symbolic_link : Create a symbolic link in the current working directory
 
