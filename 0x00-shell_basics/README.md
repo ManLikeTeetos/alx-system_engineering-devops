@@ -7,3 +7,4 @@
 6-firstdirectory : Make directory my_first_directory in /tmp
 7-movethatfile : Move file from one directory to the other
 8-firstdelete : Delete file from directory
+9-firstdirdeletion : Delete directory
