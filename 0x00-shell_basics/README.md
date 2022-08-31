@@ -17,4 +17,5 @@
 101-clean_emacs : Delete all files staring with ~
 102-tree : Make three directories with one comand line 
 103-commas : lists all the files and directories of the current directory, separated by commas
+school.mgc : Detect School data files
 
