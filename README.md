@@ -9,4 +9,5 @@
 8-James_Bond : Give selective permission
 9-John_Doe : Give permission of 753
 10-mirror_permissions : Mirror the permission of another file
+11-directories_permissions : Give directory and sub-directories permission
 
