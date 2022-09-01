@@ -7,4 +7,5 @@
 6-multiple_permissions : Multiple permissions to user and group
 7-everybody : Execute permissions to all user, group and others
 8-James_Bond : Give selective permission
+9-John_Doe : Give permission of 753
 
