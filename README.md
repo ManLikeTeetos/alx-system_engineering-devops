@@ -8,4 +8,5 @@
 7-everybody : Execute permissions to all user, group and others
 8-James_Bond : Give selective permission
 9-John_Doe : Give permission of 753
+10-mirror_permissions : Mirror the permission of another file
 
