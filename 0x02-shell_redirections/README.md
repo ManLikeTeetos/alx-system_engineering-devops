@@ -4,4 +4,6 @@
 3-twofiles : Display content of two files at once
 4-lastlines : Display last ten lines of a file
 5-firstlines : Display first ten lines of a file
+6-third_line : Display the third line from a given file
+
 
