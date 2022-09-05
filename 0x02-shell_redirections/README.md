@@ -13,5 +13,6 @@
 12-newest_files: Display ten newest files in the directory
 13-unique : Display words that apear only once in a file
 14-findthatword: Find a particular word in a file
+15-countthatword: Count the number of lines a particular word occured in
 
 
