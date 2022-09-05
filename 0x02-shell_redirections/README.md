@@ -10,5 +10,6 @@
 9-duplicate_last_line: Duplicate the last line of file into another file
 10-no_more_js: Deletes all js files in the current directory
 11-directories : Count the hidden directory and sub directory in the current directory
+12-newest_files: Display ten newest files in the directory
 
 
