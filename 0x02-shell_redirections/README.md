@@ -6,5 +6,6 @@
 5-firstlines : Display first ten lines of a file
 6-third_line : Display the third line from a given file
 7-file: Create a file with a certain name containing the text Best school which ends with a new line
+8-cwd_state : Redirects the result of ist command into a file
 
 
