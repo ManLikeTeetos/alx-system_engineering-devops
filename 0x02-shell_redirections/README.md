@@ -12,5 +12,6 @@
 11-directories : Count the hidden directory and sub directory in the current directory
 12-newest_files: Display ten newest files in the directory
 13-unique : Display words that apear only once in a file
+14-findthatword: Find a particular word in a file
 
 
