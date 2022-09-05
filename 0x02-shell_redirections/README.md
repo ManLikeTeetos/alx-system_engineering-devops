@@ -14,5 +14,6 @@
 13-unique : Display words that apear only once in a file
 14-findthatword: Find a particular word in a file
 15-countthatword: Count the number of lines a particular word occured in
+16-whatsnext: Display lines containing the pattern “root” and 3 lines after them in the file
 
 
