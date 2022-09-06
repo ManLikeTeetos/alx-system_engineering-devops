@@ -9,5 +9,6 @@
 8-true_knowledge : Add the number 128 to the variable TRUEKNOWLEDGE
 9-divide_and_rule : Prints the result of POWER divided by DIVIDED, then a newline
 10-love_exponent_breath : Print the result of BREATH raised to the power of LOVE
+11-binary_to_decimal: Convert a number from base 2 to base 10
 
 
