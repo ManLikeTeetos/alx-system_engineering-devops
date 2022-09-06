@@ -13,5 +13,6 @@
 12-combinations : prints all possible combinations of two letters, except oo
 13-print_float : Prints a numberin two decimal places 
 100-decimal_to_hexadecimal : Convert decimal to hexadecimal
+101-rot13 : Encodes and decodes a text using rot13 encryption
 
 
