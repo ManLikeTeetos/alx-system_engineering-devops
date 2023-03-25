@@ -1,0 +1,4 @@
+git:
+	git add .
+	git commit -m "Configuration management"
+	git push
