@@ -16,8 +16,8 @@ SERVER_CONFIG=\
 	location / {
 		try_files \$uri \$uri/ =404;
 	}
-	if (\$request_filename ~ redirect_me){
-		rewrite ^ https://sketchfab.com/bluepeno/models permanent;
+	if ($uri = /redirect_me) {
+    	rewrite ^ https://sketchfab.com/bluepeno/models permanent;
 	}
 }"
 
