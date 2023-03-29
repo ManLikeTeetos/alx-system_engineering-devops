@@ -1,0 +1,4 @@
+git:
+	git add .
+	git commit -m "Web server"
+	git push
