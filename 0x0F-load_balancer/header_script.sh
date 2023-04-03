@@ -9,4 +9,3 @@ sudo sed -i "s|# add_header.*|add_header $HEADER_NAME $HEADER_VALUE;|" /etc/ngin
 
 # Restart Nginx to apply the changes
 sudo service nginx restart
-
