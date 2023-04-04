@@ -20,5 +20,4 @@ echo "
    server 144222-web-02 54.208.44.210 check
 " >> /etc/haproxy/haproxy.cfg
 
-haproxy -c -V -f /etc/haproxy/haproxy.cfg
-systemctl restart haproxy
+service haproxy restart
