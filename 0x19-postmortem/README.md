@@ -1,11 +1,11 @@
-## Postmortem: Nginx Server Outage Due to Space Constraint from MySQL Error Logs
-# Issue Summary:
+<b>Postmortem: Nginx Server Outage Due to Space Constraint from MySQL Error Logs</b>
+<b>Issue Summary</b>:
 
-# Duration: May 10, 2023, 3:00 PM to May 11, 2023, 9:00 AM (UTC)
-# Impact: The Nginx server was down during the outage, resulting in a complete service disruption. Users experienced HTTP 503 errors when attempting to access the website. Approximately 80% of users were affected during this period.
-# Timeline:
+<b>Duration: May 10, 2023, 3:00 PM to May 11, 2023, 9:00 AM (UTC) </b>
+<b>Impact </b>: The Nginx server was down during the outage, resulting in a complete service disruption. Users experienced HTTP 503 errors when attempting to access the website. Approximately 80% of users were affected during this period.
+Timeline:
 
-# Issue Detection: May 10, 2023, 3:30 PM (UTC)
+Issue Detection: May 10, 2023, 3:30 PM (UTC)
 The issue was detected through monitoring alerts indicating a sudden increase in HTTP 503 error responses. <br/>
 Actions Taken:
 Engineers initially investigated the Nginx server configuration and restarted the service, assuming it was a temporary glitch.
